@@ -1,6 +1,6 @@
 /*
  *  closest_AVL (augmented with closest-pair AVL) tree implementation.
- *  Author: Akshay Arun Bapat.
+ *  
  *  Based on materials developed by Anya Tafliovich and F. Estrada.
  */
 
